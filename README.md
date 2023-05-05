@@ -6,7 +6,7 @@ I'm Full Stack Web Developer who is passionate about making error free website w
 
 Skills: HTML / CSS /Sass /Bootstrap /PHP /MySQL  /Laravel /JS  /VUE JS
 
-- 🔭 I’m currently working on Datatrix Soft Ltd | Software company in Bangladesh 
+- 🔭 I’m currently working on Softrobotics Bangladesh Limited | Software company in Bangladesh 
 - 🌱 I’m currently learning Vue.js 
 - 👯 I’m looking to collaborate on github 
 - ⚡ Fun fact: Open and friendly. 
