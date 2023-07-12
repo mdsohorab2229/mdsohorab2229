@@ -4,11 +4,11 @@
 
 I'm Full Stack Web Developer who is passionate about making error free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
-Skills: HTML / CSS /Sass /Bootstrap /PHP /MySQL  /Laravel /JS  /VUE JS
+Skills: HTML / CSS /Sass /Bootstrap /PHP /MySQL  /Laravel /JS  /ReactJS
 
 - 🔭 I’m currently working on Softrobotics Bangladesh Limited | Software company in Bangladesh 
 - 🌱 I’m currently learning Vue.js 
-- 👯 I’m looking to collaborate on github 
+- 👯 I’m looking to collaborate on GitHub 
 - ⚡ Fun fact: Open and friendly. 
 
 ![Profile views](https://gpvc.arturio.dev/mdsohorab2229)  
