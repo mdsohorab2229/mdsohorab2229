@@ -2,7 +2,7 @@
 #### Web Developer
 ![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQHDvS7TdBcvvQ/profile-displaybackgroundimage-shrink_200_800/0/1614245351921?e=1658361600&v=beta&t=LnmyLai5xcPxp-xjD5AyB9Ocp4SPZQBCYvB4xHXv_2g)
 
-I'm Full Stack Web Developer who is passionate about making error free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible.
+I'm a Full-Stack Web Developer who is passionate about creating error-free websites with 100% client satisfaction. I also have a passion for learning and sharing my knowledge with others as publicly as possible.
 
 Skills: HTML / CSS /Sass /Bootstrap /PHP /MySQL  /Laravel /JS  /ReactJS
 
